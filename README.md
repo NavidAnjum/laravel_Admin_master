@@ -22,4 +22,4 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## License
 
-All rights reserved to <a href="https://laravelaura.com" target="_blank">LaravelAural</a>
+All rights reserved to <a href="https://laravelaura.com" target="_blank">LaravelAura</a>
