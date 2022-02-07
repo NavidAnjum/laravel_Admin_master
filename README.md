@@ -10,8 +10,6 @@ We've developed this admin panel using laravel and bootstrap:
 - Can be used with any laravel projects
 - Login Part has been done
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
 
 ## License
 
